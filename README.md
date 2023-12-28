@@ -11,11 +11,15 @@ ________________________________________________________________________________
 
 -->   Kodun çalışabilmesi için bilgisayarınızda python yüklü olması lazım.
 
-o Yüklemek için Python'ın kendi orijinal sitesinden indirebilirsiniz : https://www.python.org/downloads/
+->  Yüklemek için Python'ın kendi orijinal sitesinden indirebilirsiniz : https://www.python.org/downloads/
 ______________________________________________________________________________________________________________________________________________________________________
 
-o frkb.py dosyasının içine girin.
-o En aşağıdaki image_path = "dosya.uzantısı" şeklinde değiştirinn
-o Terminalinizde bu klasörü indirdiğiniz noktaya ulaşın Linux: cd | Windows: cd (Yardım olabilecek komutlar \Linux: l(L harfi)s , pwd) Windows dir , pwd/
-o Terminale python frkb.py yazın ve bulmak istediğiniz noktayı açılan sayfadan seçin. 
+->  frkb.py dosyasının içine girin.
+
+->  En aşağıdaki image_path = "dosya.uzantısı" şeklinde değiştirinn
+
+->  Terminalinizde bu klasörü indirdiğiniz noktaya ulaşın Linux: cd | Windows: cd (Yardım olabilecek komutlar \Linux: l(L harfi)s , pwd) Windows dir , pwd/
+
+->  Terminale python frkb.py yazın ve bulmak istediğiniz noktayı açılan sayfadan seçin. 
+
 ______________________________________________________________________________________________________________________________________________________________________
